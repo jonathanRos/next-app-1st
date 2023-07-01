@@ -1,6 +1,6 @@
 Based on https://nextjs.org/docs/getting-started/installation
 
-Trying Next with App router. Worked with authentication but missing components in node-modules. Can't be bothered to figure it out till AWS sorts it out.
+Trying Next with App router. Worked with authentication but missing modules in node-modules. Can't be bothered to figure it out till AWS sorts it out. Possible @aws-sdk requires upgrade.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
