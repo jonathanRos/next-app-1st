@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "nextapprouter1st",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authnextapprouter1stac20be51",
+      "Outputs.UserPoolId"
+    ]
+  }
+}
